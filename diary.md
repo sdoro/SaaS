@@ -7,7 +7,10 @@ scaricata da
 Molti si sono anche registrati per
 [AWS Free Usage Tier](http://aws.amazon.com/free/).
 
-* 16 Dic - ?
+* 16 Dic - rivisitazione lavoro su VirtualBox
 
-* 23 Dic - ?
+* 08 Gen - update lavori svolti
+
+* 14 Gen - Configurazione VM su AWS ec2.
+
 
