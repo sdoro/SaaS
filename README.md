@@ -7,4 +7,3 @@ Il corso settimanale facoltativo per gli studenti del serale
 Zuccante via Baglioni 22 - Mestre (VE)
 
 Referente/tutor del corso è il prof. Sandro Doro
-
